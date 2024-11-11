@@ -1,2 +1,1 @@
-# Hello-World
-"This is the  my first reposaitory in github ...
+print("This is my first repository in github");
